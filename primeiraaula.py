@@ -23,3 +23,5 @@ print("nome: %s \t\t tipo: %s" % (nome,type(nome)))
 print("ativo: %r \t\t tipo: %s" (ativo,type(ativo)))
 print("salario: %.2f \t tipo: %s" % (salario, type (salario)))
 
+
+
