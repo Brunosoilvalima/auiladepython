@@ -44,3 +44,6 @@ print("pi" , math. pi )
 print("hipotenusa de 4 e 8" , math.hypot(4,8 ))
 print("arredonda o valor para cima 5.854", math.cell(5.854))"""
 
+
+
+
